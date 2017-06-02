@@ -4,7 +4,7 @@
 Turn a number into a Material Design color.
 
 ```js
-let colorize = require('smn-colorize')
+let colorize = require('smn-colorize');
 
 let color = colorize(5); // #F57C00
 ```
