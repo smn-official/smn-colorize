@@ -1,4 +1,5 @@
 [![SMN Logo](http://smn.com.br/content/img/logotipo/light-lying.svg)](http://smn.com.br/)
+
 # smn-colorize
 Turn a number into a Material Design color.
 
